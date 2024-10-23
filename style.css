@@ -73,7 +73,7 @@ nav ul{
 
 .hero{
     min-height: 90vh;
-    background-image:linear-gradient(rgba(0,0,0,0.5),transparent),url('/image/sekwang-chia-RwIpWCG6ELw-unsplash.jpg');
+     background-image:url('https://images.pexels.com/photos/238622/pexels-photo-238622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -93,8 +93,8 @@ nav ul{
 
 #locations{
     min-height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.5),transparent),url('/image/pexels-roberto-vivancos-2190283.jpg') ;
-    background-size: cover;
+    background-image:linear-gradient(rgba(0,0,0,0.5),transparent);
+    url('https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') ;
     background-position:center;
     display:flex;
     align-items: center;
