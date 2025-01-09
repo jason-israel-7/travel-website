@@ -93,7 +93,7 @@ nav ul{
 
 #locations{
     min-height: 100vh;
-    background-image:url('https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg') ;
+    background-image:url('https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') ;
     background-position:center;
     display:flex;
     align-items: center;
@@ -113,7 +113,7 @@ nav ul{
 }
 #contact{
     min-height: 100vh;
-    background-image: url(https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg);
+    background-image: url('https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
